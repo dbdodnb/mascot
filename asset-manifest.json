@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mascot/static/css/main.2c42ad15.css",
-    "main.js": "/mascot/static/js/main.0dd279b0.js",
+    "main.js": "/mascot/static/js/main.3b7324e1.js",
     "static/media/Illia_Chaikovskyi.png": "/mascot/static/media/Illia_Chaikovskyi.da8f44645bcfa7c759db.png",
     "static/media/maryna.png": "/mascot/static/media/maryna.6b0a588b602ddf3870ea.png",
     "static/media/1.png": "/mascot/static/media/1.c30fbe60eff1ba6d4ebd.png",
@@ -39,10 +39,10 @@
     "static/media/klei.png": "/mascot/static/media/klei.66be7e90cbd3ed3d87ec.png",
     "index.html": "/mascot/index.html",
     "main.2c42ad15.css.map": "/mascot/static/css/main.2c42ad15.css.map",
-    "main.0dd279b0.js.map": "/mascot/static/js/main.0dd279b0.js.map"
+    "main.3b7324e1.js.map": "/mascot/static/js/main.3b7324e1.js.map"
   },
   "entrypoints": [
     "static/css/main.2c42ad15.css",
-    "static/js/main.0dd279b0.js"
+    "static/js/main.3b7324e1.js"
   ]
 }
