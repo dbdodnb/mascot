@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mascot/static/css/main.50dce75b.css",
+    "main.css": "/mascot/static/css/main.130967a2.css",
     "main.js": "/mascot/static/js/main.1de4bbce.js",
     "static/media/Illia_Chaikovskyi.png": "/mascot/static/media/Illia_Chaikovskyi.da8f44645bcfa7c759db.png",
     "static/media/maryna.png": "/mascot/static/media/maryna.6b0a588b602ddf3870ea.png",
@@ -39,6 +39,7 @@
     "static/media/morshynska.jpg": "/mascot/static/media/morshynska.f8b0f42abc490bf80e26.jpg",
     "static/media/bosko10.webp": "/mascot/static/media/bosko10.f5f0e20d8f0ff876fd00.webp",
     "static/media/logo_bg.png": "/mascot/static/media/logo_bg.666e02ffc0cdcad14e57.png",
+    "static/media/UnitySans-Basic.otf": "/mascot/static/media/UnitySans-Basic.9a45345bc36d684f8eaa.otf",
     "static/media/Golosy-ditej-fond.jpg": "/mascot/static/media/Golosy-ditej-fond.6c3283ceaf214d300de4.jpg",
     "static/media/dodo.png": "/mascot/static/media/dodo.749925299cf0fe2dab7e.png",
     "static/media/logo_no-bg.png": "/mascot/static/media/logo_no-bg.2142b89f2412e39ca394.png",
@@ -46,11 +47,11 @@
     "static/media/orner.png": "/mascot/static/media/orner.3c04ca31d1192115e94f.png",
     "static/media/klei.png": "/mascot/static/media/klei.66be7e90cbd3ed3d87ec.png",
     "index.html": "/mascot/index.html",
-    "main.50dce75b.css.map": "/mascot/static/css/main.50dce75b.css.map",
+    "main.130967a2.css.map": "/mascot/static/css/main.130967a2.css.map",
     "main.1de4bbce.js.map": "/mascot/static/js/main.1de4bbce.js.map"
   },
   "entrypoints": [
-    "static/css/main.50dce75b.css",
+    "static/css/main.130967a2.css",
     "static/js/main.1de4bbce.js"
   ]
 }
