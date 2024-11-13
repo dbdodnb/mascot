@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mascot/static/css/main.50dce75b.css",
-    "main.js": "/mascot/static/js/main.3be42d2a.js",
+    "main.js": "/mascot/static/js/main.73414242.js",
     "static/media/Illia_Chaikovskyi.png": "/mascot/static/media/Illia_Chaikovskyi.da8f44645bcfa7c759db.png",
     "static/media/maryna.png": "/mascot/static/media/maryna.6b0a588b602ddf3870ea.png",
     "static/media/1.png": "/mascot/static/media/1.c30fbe60eff1ba6d4ebd.png",
@@ -21,15 +21,23 @@
     "static/media/Anastasiia_Khomenko.png": "/mascot/static/media/Anastasiia_Khomenko.5fe92fc7907b6efb22a7.png",
     "static/media/Sasha_Sui.png": "/mascot/static/media/Sasha_Sui.421632f9b2acea91b219.png",
     "static/media/10.jpg": "/mascot/static/media/10.b1d6d85e9a5d2ad4fde8.jpg",
+    "static/media/bosko12.png": "/mascot/static/media/bosko12.2ad3cdff88ab2b739622.png",
+    "static/media/bosko6.jpg": "/mascot/static/media/bosko6.4d2e642770143e437ff8.jpg",
     "static/media/danylo.png": "/mascot/static/media/danylo.8ae4a60a9630a33e0560.png",
-    "static/media/bosko2.jpg": "/mascot/static/media/bosko2.9e4f73a6e354ded9fee6.jpg",
+    "static/media/bosko11.webp": "/mascot/static/media/bosko11.7efd6fa49f16cf173925.webp",
+    "static/media/bosko7.jpg": "/mascot/static/media/bosko7.3f4a47d3b4ae57c020ba.jpg",
+    "static/media/bosko4.jpg": "/mascot/static/media/bosko4.263048c248bb2ad1be85.jpg",
+    "static/media/bosko8.jpg": "/mascot/static/media/bosko8.2c1786e352d9342ce7d7.jpg",
+    "static/media/bosko2.jpg": "/mascot/static/media/bosko2.c795a0593483180a1e67.jpg",
     "static/media/Oleksandr_Marchyshak.png": "/mascot/static/media/Oleksandr_Marchyshak.a311290df708df52fb01.png",
-    "static/media/bosko.jpg": "/mascot/static/media/bosko.2d3f3173da29810e1803.jpg",
+    "static/media/bosko9.jpg": "/mascot/static/media/bosko9.75d0e79f74633d9f0eaa.jpg",
+    "static/media/bosko5.jpg": "/mascot/static/media/bosko5.dc2d8fc93bb82116997d.jpg",
     "static/media/brandme.png": "/mascot/static/media/brandme.edb0ad8e65888feb6b86.png",
-    "static/media/bosko3.webp": "/mascot/static/media/bosko3.440a4e72c5b2e2a3027b.webp",
+    "static/media/bosko3.jpg": "/mascot/static/media/bosko3.62a6c0bca6fe6575763d.jpg",
+    "static/media/bosko1.jpg": "/mascot/static/media/bosko1.01edf11462b929046d64.jpg",
     "static/media/zone3000.png": "/mascot/static/media/zone3000.0a1604457bd76787efcb.png",
     "static/media/morshynska.jpg": "/mascot/static/media/morshynska.f8b0f42abc490bf80e26.jpg",
-    "static/media/bosko4.jpg": "/mascot/static/media/bosko4.475f40256b560c5fcf15.jpg",
+    "static/media/bosko10.webp": "/mascot/static/media/bosko10.f5f0e20d8f0ff876fd00.webp",
     "static/media/logo_bg.png": "/mascot/static/media/logo_bg.666e02ffc0cdcad14e57.png",
     "static/media/Golosy-ditej-fond.jpg": "/mascot/static/media/Golosy-ditej-fond.6c3283ceaf214d300de4.jpg",
     "static/media/dodo.png": "/mascot/static/media/dodo.749925299cf0fe2dab7e.png",
@@ -39,10 +47,10 @@
     "static/media/klei.png": "/mascot/static/media/klei.66be7e90cbd3ed3d87ec.png",
     "index.html": "/mascot/index.html",
     "main.50dce75b.css.map": "/mascot/static/css/main.50dce75b.css.map",
-    "main.3be42d2a.js.map": "/mascot/static/js/main.3be42d2a.js.map"
+    "main.73414242.js.map": "/mascot/static/js/main.73414242.js.map"
   },
   "entrypoints": [
     "static/css/main.50dce75b.css",
-    "static/js/main.3be42d2a.js"
+    "static/js/main.73414242.js"
   ]
 }
