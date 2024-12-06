@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mascot/static/css/main.a0a56735.css",
-    "main.js": "/mascot/static/js/main.1de4bbce.js",
+    "main.js": "/mascot/static/js/main.367ad304.js",
     "static/media/Illia_Chaikovskyi.png": "/mascot/static/media/Illia_Chaikovskyi.da8f44645bcfa7c759db.png",
     "static/media/maryna.png": "/mascot/static/media/maryna.6b0a588b602ddf3870ea.png",
     "static/media/1.png": "/mascot/static/media/1.c30fbe60eff1ba6d4ebd.png",
@@ -43,15 +43,21 @@
     "static/media/Golosy-ditej-fond.jpg": "/mascot/static/media/Golosy-ditej-fond.6c3283ceaf214d300de4.jpg",
     "static/media/dodo.png": "/mascot/static/media/dodo.749925299cf0fe2dab7e.png",
     "static/media/logo_no-bg.png": "/mascot/static/media/logo_no-bg.2142b89f2412e39ca394.png",
+    "static/media/повага.png": "/mascot/static/media/повага.287891c842cab9ed55ba.png",
+    "static/media/довіра.png": "/mascot/static/media/довіра.a704f9052a82a4acaa3c.png",
+    "static/media/комунікації.png": "/mascot/static/media/комунікації.31751152f903b688bb2f.png",
+    "static/media/інклюзивність.png": "/mascot/static/media/інклюзивність.2acf6f82917401d416ec.png",
+    "static/media/спільнота.png": "/mascot/static/media/спільнота.164e21c109cd94d39923.png",
     "static/media/placeholder.png": "/mascot/static/media/placeholder.9edd1b9bb88b0f57dcc4.png",
+    "static/media/рівність.png": "/mascot/static/media/рівність.1155f3fb7406f960c60b.png",
     "static/media/orner.png": "/mascot/static/media/orner.3c04ca31d1192115e94f.png",
     "static/media/klei.png": "/mascot/static/media/klei.66be7e90cbd3ed3d87ec.png",
     "index.html": "/mascot/index.html",
     "main.a0a56735.css.map": "/mascot/static/css/main.a0a56735.css.map",
-    "main.1de4bbce.js.map": "/mascot/static/js/main.1de4bbce.js.map"
+    "main.367ad304.js.map": "/mascot/static/js/main.367ad304.js.map"
   },
   "entrypoints": [
     "static/css/main.a0a56735.css",
-    "static/js/main.1de4bbce.js"
+    "static/js/main.367ad304.js"
   ]
 }
